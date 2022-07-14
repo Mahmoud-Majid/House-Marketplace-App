@@ -12,6 +12,7 @@ body {
   background-color: #f2f4f8;
   margin: 0;
   box-sizing: border-box;
+  padding: 0px 50px 100px 50px;
 }
 
 a {
