@@ -16,5 +16,5 @@ You may also see any lint errors in the console.
 
 ### `LinkedIn Link`:
 
-https://www.linkedin.com/posts/mahmoud-majid
+linkedin.com/in/mahmoud-majid-95b14818b
 # House-Marketplace-App
